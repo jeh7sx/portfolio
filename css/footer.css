@@ -1,11 +1,13 @@
+/* *{
+        color: #F2F3EB;
 
+} */
 
 footer{
 	background-color: #EF4444;
     padding: 50px 0;
     /* border-top: 3px groove #D9C8B4; */
-
-    
+    color: #F2F3EB;
     width: 100%;
     bottom: 0px;
 }
